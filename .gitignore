@@ -1,0 +1,32 @@
+# editor cache
+*.swp
+*.orig
+# OS cache file
+.DS_Store
+Thumbs.db
+# IDE meta data
+## IntelliJ
+.idea/
+out/
+*.iml
+*.ipr
+*.iws
+## Eclipse
+.settings/
+.classpath
+.project
+## gradle
+.gradle/
+build/
+# Excel temp file
+~$*
+# Ruby
+vendor/bundle/
+.bundle/
+## rbenv
+.ruby-version
+# LibreOffice temp file
+.~lock.*#
+#add
+*.class
+*.jar
