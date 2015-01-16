@@ -29,4 +29,3 @@ vendor/bundle/
 .~lock.*#
 #add
 *.class
-*.jar
